@@ -6,9 +6,9 @@ This is a simple template for creating a real-time chat application using Socket
 
 To use this template, follow these steps:
 
-1. Clone this repository to your local machine: git clone <repository_url>
-2. Install dependencies by running: npm install
-3. Start the server by running: npm start
+1. Clone this repository to your local machine: `git clone <repository_url>`
+2. Install dependencies by running: `npm install`
+3. Start the server by running: `npm start`
 4. Open your web browser and navigate to `http://localhost:<port>` to view the live chat application.
 
 ## Server Setup
